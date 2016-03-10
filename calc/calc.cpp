@@ -2,6 +2,14 @@
 #include <string>
 #include "calc.h"
 
+
+/*
+Multiplicacao 1 - A * B;
+Multiplicacao 2 - Você não pode usar o operador *
+Multiplicacao 3 - você nao pode user o operadro *, nao pode usar for, nao pode usar while, e nao pode usar do whilhe
+*/
+
+
 using namespace std;
 
 int menu(){
